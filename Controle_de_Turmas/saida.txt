@@ -1,0 +1,1179 @@
+Analise de Sistemas (2021/1) - Flavio Giraldeli
+- Francisca Pereira (396487494): 98.0
+- Francisco Oliveira (514719734): 97.0
+- Francisco Ribeiro (891520559): 97.0
+- Francisca Carvalho (515253895): 91.0
+- Leonor Sampaio (021951672): 90.0
+- Beatriz Alvares (715763149): 86.0
+- Mariana da Veiga (919171312): 86.0
+- Diogo Martins (465454108): 85.0
+- Madalena de Caminha (923308211): 82.0
+- Miguel Mendes (062073596): 79.0
+- Leonor Pereira (621660745): 78.0
+- Leonor Martins (371737922): 72.0
+- Ana de Caminha (356116587): 70.0
+- Matilde Ribeiro (415374570): 69.0
+- Ana Correia (118791168): 66.0
+- Ana Fernandes (947001543): 65.0
+- Leonor Costa (064460750): 63.0
+- Catarina Fernandes (660349169): 55.0
+- Francisco Teixeira (507749244): 54.0
+- Santiago Guimaraes (415101869): 49.0
+- Francisca Braganca (283195103): 44.0
+- Matilde Teixeira (363199576): 44.0
+- Tomas Jesus (852358320): 44.0
+- Afonso Costa (403262191): 43.0
+- Matilde Vaz (352151640): 33.0
+- Francisco Carvalho (643066576): 32.0
+- Maria Alvares (782512866): 25.0
+- Madalena Albuquerque (902566004): 20.0
+- Madalena Goncalves (533327597): 19.0
+- Matilde Jesus (986525477): 13.0
+- Madalena Jesus (341978044): 11.0
+- Martim Mendes (984213672): 8.0
+- Maria Nunes (024537986): 4.0
+- Catarina Castro (777510306): 3.0
+- Francisca Pinto (129963786): 2.0
+- Miguel Alves (388032573): 2.0
+Analise de Sistemas (2021/1) - Flavio Lamas
+- Santiago Sampaio (065513852): 99.0
+- Mariana Alvares (960880549): 98.0
+- Martim Correia (696396367): 96.0
+- Maria Santos (124817411): 92.0
+- Maria Alvares (782512866): 88.0
+- Mariana Coimbra (976557845): 80.0
+- Leonor Mendes (542381298): 79.0
+- Tomas Martins (359386707): 78.0
+- Rodrigo Pereira (435307267): 76.0
+- Diogo Oliveira (612300898): 74.0
+- Francisca Carvalho (371979716): 68.0
+- Carolina Oliveira (917867294): 63.0
+- Matilde Teixeira (363199576): 63.0
+- Mariana Silva (973370071): 61.0
+- Leonor da Gama (057898608): 60.0
+- Madalena Lopes (045809495): 50.0
+- Santiago Marques (362983739): 48.0
+- Madalena Coimbra (408702098): 40.0
+- Rodrigo Pereira (925909986): 39.0
+- Joao Sampaio (440448034): 37.0
+- Rodrigo Mendes (116068059): 37.0
+- Beatriz da Gama (528756126): 36.0
+- Diogo Martins (465454108): 31.0
+- Francisco Alves (486556831): 30.0
+- Joao Vaz (298408702): 29.0
+- Rodrigo Lopes (177573818): 24.0
+- Maria da Gama (848588078): 23.0
+- Maria Sampaio (887829131): 21.0
+- Leonor Ribeiro (747407842): 19.0
+- Francisca Vaz (714992066): 18.0
+- Matilde Marques (791174232): 17.0
+- Catarina Carvalho (677969468): 7.0
+- Martim Mendes (984213672): 7.0
+- Afonso Ribeiro (737784356): 4.0
+- Santiago Marques (789946032): 2.0
+- Joao Pereira (581136859): 0.0
+Analise de Sistemas (2021/1) - Hilario Seibel Jr
+- Leonor Costa (064460750): 94.0
+- Madalena Moreira (622540809): 90.0
+- Martim Rodrigues (051548394): 89.0
+- Mariana Pereira (661035286): 85.0
+- Joao da Gama (827381366): 82.0
+- Madalena de Caminha (923308211): 80.0
+- Tomas Guimaraes (418144138): 80.0
+- Rodrigo Almeida (176543129): 77.0
+- Diogo Moreira (532307684): 76.0
+- Francisco Carvalho (643066576): 75.0
+- Mariana Coimbra (736033581): 72.0
+- Francisca Carvalho (024525785): 70.0
+- Santiago Martins (462906683): 70.0
+- Tiago Ferreira (983507988): 68.0
+- Miguel Fernandes (352636310): 66.0
+- Carolina Nunes (054997669): 65.0
+- Catarina Braga (899588408): 64.0
+- Mariana Nunes (938119714): 64.0
+- Matilde Correia (352030876): 64.0
+- Joao Vaz (298408702): 62.0
+- Tomas Guimaraes (642663544): 58.0
+- Maria Oliveira (822268956): 55.0
+- Afonso Marques (608527678): 51.0
+- Ana Nunes (864496835): 51.0
+- Rodrigo Albuquerque (354428032): 50.0
+- Francisco Castro (489694631): 48.0
+- Diogo Castro (133307600): 45.0
+- Tomas Pinto (033227857): 44.0
+- Leonor Ferreira (856768804): 41.0
+- Tomas Teixeira (711098200): 41.0
+- Joao Costa (435552386): 38.0
+- Miguel Carvalho (131905386): 33.0
+- Santiago Oliveira (243948028): 30.0
+- Santiago Pereira (018667083): 30.0
+- Maria Pereira (497393414): 28.0
+- Afonso Nunes (040918296): 27.0
+- Tomas Jesus (950166721): 26.0
+- Catarina Fernandes (660349169): 21.0
+- Joao Sampaio (359509497): 21.0
+- Ana Rodrigues (973828702): 19.0
+- Matilde Vaz (352151640): 17.0
+- Joao Ferreira (085332496): 15.0
+- Francisca Lopes (309051359): 11.0
+- Leonor Almeida (552742524): 9.0
+- Mariana da Veiga (919171312): 7.0
+- Catarina Santos (748837072): 2.0
+- Matilde Braga (529695213): 0.0
+Programacao 1 (2021/1) - Wagner Kirmse
+- Tiago Ribeiro (039726728): 90.0
+- Tiago Albuquerque (140607291): 88.0
+- Tiago Carvalho (093351102): 88.0
+- Leonor Gomes (462618220): 86.0
+- Ana Sampaio (126939839): 79.0
+- Madalena Rodrigues (351174243): 75.0
+- Diogo Lopes (013367367): 70.0
+- Santiago Almeida (788555787): 67.0
+- Francisca Lopes (309051359): 65.0
+- Maria Castro (561971227): 63.0
+- Ana Braganca (416471104): 54.0
+- Carolina Lopes (963411284): 53.0
+- Tiago Silva (940615869): 52.0
+- Maria Sousa (590782080): 51.0
+- Martim Alvares (173610029): 44.0
+- Beatriz da Gama (528756126): 43.0
+- Madalena Castro (727079795): 42.0
+- Mariana Gomes (393801734): 35.0
+- Tomas Carvalho (750153282): 35.0
+- Beatriz de Caminha (902046408): 31.0
+- Leonor Braga (606852447): 30.0
+- Santiago Martins (462906683): 30.0
+- Catarina Guimaraes (497237046): 22.0
+- Tiago Nunes (089297211): 22.0
+- Francisco Castro (489694631): 20.0
+- Joao Carvalho (326730268): 20.0
+- Mariana Pereira (661035286): 18.0
+- Rodrigo Costa (491749416): 15.0
+- Catarina Braga (899588408): 7.0
+- Maria Alvares (782512866): 7.0
+- Afonso Lopes (064541249): 4.0
+- Diogo Ferreira (844935298): 4.0
+- Afonso Ribeiro (737784356): 3.0
+Programacao 2 (2021/1) - Flavio Giraldeli
+- Madalena Silva (696962989): 97.0
+- Afonso Gomes (545231898): 96.0
+- Diogo Fernandes (603372211): 95.0
+- Santiago Fernandes (260637286): 92.0
+- Diogo Gomes (995886119): 91.0
+- Ana Braganca (691416447): 90.0
+- Mariana da Gama (105824812): 81.0
+- Tiago Pereira (004800083): 77.0
+- Martim Vaz (622153747): 73.0
+- Joao Sampaio (359509497): 72.0
+- Miguel Moreira (381752460): 71.0
+- Catarina Nunes (538231564): 67.0
+- Mariana Pereira (661035286): 61.0
+- Matilde Almeida (685194292): 58.0
+- Santiago Rodrigues (948120510): 56.0
+- Miguel Mendes (062073596): 53.0
+- Joao Carvalho (112249457): 50.0
+- Mariana Silva (973370071): 46.0
+- Santiago Alves (846798051): 46.0
+- Afonso Rodrigues (468003358): 45.0
+- Tomas Pinto (033227857): 35.0
+- Diogo Martins (236887145): 34.0
+- Maria Costa (274903509): 25.0
+- Francisco Costa (959928348): 24.0
+- Ana Coimbra (161198057): 23.0
+- Madalena de Caminha (923308211): 21.0
+- Tiago Pereira (091994505): 20.0
+- Diogo Pinto (397399994): 18.0
+- Tomas Teixeira (711098200): 18.0
+- Carolina Ribeiro (755409544): 16.0
+- Joao Lopes (214361254): 11.0
+- Francisca Braganca (283195103): 9.0
+- Joao Oliveira (597314517): 5.0
+- Francisca Lopes (309051359): 2.0
+- Matilde Correia (352030876): 2.0
+Programacao Orientada a Objetos (2021/1) - Fabiano Ruy
+- Maria Alvares (782512866): 99.0
+- Tiago Carvalho (093351102): 96.0
+- Miguel Sampaio (045560961): 95.0
+- Madalena Castro (727079795): 93.0
+- Santiago Costa (144835086): 91.0
+- Maria Fernandes (702978334): 90.0
+- Rodrigo Albuquerque (354428032): 89.0
+- Joao Costa (435552386): 87.0
+- Joao Sampaio (329144220): 80.0
+- Joao Nunes (381131199): 77.0
+- Joao Lopes (214361254): 75.0
+- Martim Marques (364668820): 75.0
+- Francisca Pinto (129963786): 68.0
+- Francisco Ribeiro (891520559): 67.0
+- Tomas Albuquerque (000288665): 65.0
+- Tomas Coimbra (831631423): 64.0
+- Ana Rodrigues (973828702): 62.0
+- Martim Sousa (680880650): 61.0
+- Matilde Marques (791174232): 56.0
+- Mariana Alvares (191515747): 53.0
+- Francisca Pereira (396487494): 50.0
+- Matilde Jesus (587280359): 47.0
+- Tiago Braganca (217188235): 46.0
+- Matilde Pinto (603276954): 43.0
+- Diogo Martins (236887145): 40.0
+- Francisco Castro (489694631): 36.0
+- Mariana Costa (281858903): 36.0
+- Tiago Castro (721026257): 31.0
+- Tiago Lopes (775601858): 26.0
+- Matilde Nunes (398950539): 21.0
+- Tiago Silva (940615869): 21.0
+- Madalena Alves (524971179): 18.0
+- Catarina Castro (777510306): 6.0
+- Catarina Pinto (757287979): 6.0
+- Francisco Alves (486556831): 6.0
+- Joao Vaz (298408702): 4.0
+- Leonor da Gama (700501814): 2.0
+- Santiago Pinto (699581388): 2.0
+- Beatriz de Caminha (902046408): 1.0
+Programacao Orientada a Objetos (2021/1) - Hilario Seibel Jr
+- Ana Rodrigues (973828702): 97.0
+- Joao Braganca (196502858): 91.0
+- Madalena Santos (348763917): 90.0
+- Madalena Fernandes (045870310): 87.0
+- Diogo Moreira (532307684): 85.0
+- Rodrigo Costa (491749416): 84.0
+- Madalena Jesus (657607081): 82.0
+- Joao Alvares (293325523): 81.0
+- Miguel Moreira (381752460): 78.0
+- Leonor Ribeiro (747407842): 75.0
+- Martim Braga (981371439): 73.0
+- Carolina Coimbra (593620532): 71.0
+- Santiago Pinto (699581388): 69.0
+- Catarina Carvalho (677969468): 67.0
+- Francisco Vaz (305206855): 59.0
+- Leonor Ribeiro (535510350): 56.0
+- Madalena Correia (389036168): 54.0
+- Maria Correia (339301449): 48.0
+- Afonso Ribeiro (737784356): 44.0
+- Diogo Gomes (995886119): 34.0
+- Joao Costa (183334133): 30.0
+- Tomas Lopes (881362977): 20.0
+- Martim Rodrigues (085114196): 15.0
+- Matilde Jesus (986525477): 14.0
+- Diogo Pinto (397399994): 11.0
+- Catarina Guimaraes (497237046): 9.0
+- Maria Sousa (025847078): 9.0
+- Joao Martins (988115972): 8.0
+- Madalena Jesus (341978044): 0.0
+- Martim Marques (364668820): 0.0
+Sistemas Operacionais (2021/1) - Fabiano Ruy
+- Francisca Ferreira (034834955): 100.0
+- Afonso Ribeiro (737784356): 99.0
+- Beatriz de Caminha (902046408): 96.0
+- Miguel Carvalho (131905386): 95.0
+- Mariana da Veiga (919171312): 92.0
+- Ana Correia (031212708): 91.0
+- Leonor de Caminha (068180940): 91.0
+- Matilde Jesus (986525477): 91.0
+- Madalena Goncalves (917634298): 89.0
+- Rodrigo Lopes (177573818): 88.0
+- Leonor Gomes (462618220): 85.0
+- Madalena Lopes (487928552): 85.0
+- Leonor da Veiga (306622305): 82.0
+- Matilde Albuquerque (872100198): 78.0
+- Catarina Alvares (131448185): 75.0
+- Carolina Pinto (365286356): 71.0
+- Maria Sampaio (549357279): 71.0
+- Maria da Gama (697194694): 71.0
+- Francisco Ribeiro (891520559): 70.0
+- Tomas Fernandes (329179762): 66.0
+- Tiago Castro (721026257): 64.0
+- Maria Goncalves (944618816): 59.0
+- Leonor da Gama (700501814): 57.0
+- Carolina Oliveira (706341633): 55.0
+- Francisca Vaz (714992066): 50.0
+- Martim Rodrigues (051548394): 47.0
+- Diogo Pinto (397399994): 32.0
+- Maria da Gama (359351317): 29.0
+- Joao Braganca (196502858): 26.0
+- Tiago Braganca (217188235): 24.0
+- Joao Braga (689582073): 17.0
+- Carolina Braga (549789435): 16.0
+- Afonso Rodrigues (013783703): 15.0
+- Madalena Alves (524971179): 15.0
+- Miguel Mendes (866125128): 10.0
+- Ana Braganca (416471104): 8.0
+- Catarina da Gama (116831853): 8.0
+- Ana Braganca (691416447): 6.0
+- Madalena Santos (348763917): 4.0
+- Matilde Vaz (352151640): 3.0
+Sistemas Operacionais (2021/1) - Flavio Lamas
+- Matilde Almeida (685194292): 98.0
+- Leonor Sampaio (021951672): 87.0
+- Carolina Alves (010376321): 85.0
+- Catarina Braganca (756378290): 84.0
+- Beatriz de Caminha (902046408): 81.0
+- Francisca Carvalho (371979716): 74.0
+- Matilde Teixeira (363199576): 71.0
+- Miguel Goncalves (170106153): 66.0
+- Maria Oliveira (822268956): 64.0
+- Diogo Almeida (707494766): 63.0
+- Tomas Fernandes (329179762): 63.0
+- Mariana Mendes (956336900): 56.0
+- Francisca Mendes (720615757): 55.0
+- Francisca Rodrigues (195788255): 52.0
+- Francisca Vaz (714992066): 52.0
+- Joao Sampaio (359509497): 51.0
+- Tomas Lopes (881362977): 48.0
+- Carolina Lopes (963411284): 45.0
+- Afonso Alves (303978247): 42.0
+- Santiago Alves (846798051): 42.0
+- Tiago Lopes (335674524): 42.0
+- Ana Nunes (864496835): 41.0
+- Miguel de Caminha (530769173): 40.0
+- Rodrigo Almeida (996094481): 36.0
+- Maria Sousa (590782080): 34.0
+- Francisco Costa (959928348): 33.0
+- Ana Sampaio (126939839): 32.0
+- Joao Martins (988115972): 31.0
+- Mariana Coimbra (976557845): 31.0
+- Miguel Goncalves (060564557): 27.0
+- Francisca Braganca (283195103): 18.0
+- Mariana Costa (281858903): 17.0
+- Beatriz Rodrigues (133541543): 14.0
+- Francisca Carvalho (515253895): 10.0
+- Francisca Moreira (119802925): 10.0
+- Matilde da Gama (488100003): 10.0
+- Matilde Carvalho (072541011): 9.0
+- Leonor Almeida (851019004): 8.0
+- Francisca Braganca (293214892): 7.0
+- Madalena Rodrigues (910428164): 4.0
+- Miguel Oliveira (246239127): 4.0
+- Tiago Costa (252089127): 4.0
+- Miguel Mendes (866125128): 2.0
+- Matilde Rodrigues (790649946): 1.0
+- Miguel Carvalho (131905386): 1.0
+Sistemas Operacionais (2021/1) - Wagner Kirmse
+- Francisca Moreira (119802925): 99.0
+- Afonso Gomes (544253548): 97.0
+- Tiago Coimbra (847885784): 96.0
+- Diogo Goncalves (122786953): 95.0
+- Carolina da Veiga (198349510): 93.0
+- Carolina Goncalves (883506127): 91.0
+- Beatriz da Gama (528756126): 90.0
+- Maria Goncalves (944618816): 89.0
+- Francisca Mendes (720615757): 86.0
+- Madalena Correia (389036168): 85.0
+- Santiago da Gama (527211381): 84.0
+- Madalena Sampaio (957671240): 77.0
+- Miguel Moreira (381752460): 76.0
+- Miguel Ribeiro (697409410): 76.0
+- Francisca Ferreira (034834955): 73.0
+- Tomas Guimaraes (945317327): 73.0
+- Catarina da Gama (806948418): 72.0
+- Francisca Braganca (293214892): 70.0
+- Beatriz Rodrigues (133541543): 68.0
+- Mariana Coimbra (976557845): 64.0
+- Tiago Almeida (425734841): 62.0
+- Matilde Vaz (352151640): 60.0
+- Tomas Ferreira (022609876): 55.0
+- Ana Gomes (990477425): 52.0
+- Maria da Gama (359351317): 49.0
+- Carolina Ribeiro (755409544): 47.0
+- Matilde Rodrigues (790649946): 47.0
+- Tomas Castro (747565960): 47.0
+- Francisco Vaz (305206855): 45.0
+- Miguel Sampaio (353455765): 44.0
+- Ana de Caminha (356116587): 43.0
+- Tomas Guimaraes (642663544): 41.0
+- Tomas Almeida (172908869): 40.0
+- Francisco Castro (489694631): 39.0
+- Maria da Gama (697194694): 33.0
+- Francisca Carvalho (024525785): 32.0
+- Joao Martins (988115972): 29.0
+- Leonor Pereira (621660745): 29.0
+- Madalena Rodrigues (910428164): 26.0
+- Francisco Teixeira (507749244): 21.0
+- Francisco Costa (082502460): 20.0
+- Diogo Mendes (771219856): 17.0
+- Miguel Sampaio (045560961): 16.0
+- Afonso Carvalho (391862517): 14.0
+- Ana Moreira (777238847): 14.0
+- Afonso Pereira (488250265): 12.0
+- Leonor Costa (064460750): 8.0
+- Afonso Rodrigues (734213868): 6.0
+- Leonor da Gama (057898608): 0.0
+Analise de Sistemas (2020/2) - Fabiano Ruy
+- Miguel Carvalho (131905386): 95.0
+- Tiago Albuquerque (614541590): 90.0
+- Madalena Castro (727079795): 86.0
+- Madalena Santos (690683643): 86.0
+- Rodrigo de Caminha (288443776): 86.0
+- Mariana da Gama (080258128): 85.0
+- Ana da Veiga (560625661): 83.0
+- Matilde Teixeira (363199576): 82.0
+- Santiago Marques (362983739): 82.0
+- Afonso Pereira (488250265): 81.0
+- Leonor Almeida (851019004): 76.0
+- Matilde Jesus (986525477): 72.0
+- Tomas Albuquerque (569715607): 70.0
+- Tomas Carvalho (750153282): 70.0
+- Tiago Nunes (959731181): 69.0
+- Mariana da Gama (046675206): 68.0
+- Maria Goncalves (944618816): 65.0
+- Rodrigo Almeida (176543129): 58.0
+- Tomas Guimaraes (938853250): 56.0
+- Ana Nunes (864496835): 48.0
+- Rodrigo Marques (792138537): 44.0
+- Tomas Ferreira (022609876): 44.0
+- Afonso Vaz (309654890): 42.0
+- Diogo Coimbra (239787316): 41.0
+- Miguel Pereira (953246145): 41.0
+- Joao Vaz (298408702): 40.0
+- Catarina Guimaraes (497237046): 39.0
+- Diogo Moreira (532307684): 38.0
+- Carolina Lopes (963411284): 34.0
+- Tiago Pereira (277147753): 34.0
+- Leonor Fernandes (816985121): 31.0
+- Ana Ferreira (209767451): 27.0
+- Madalena Rodrigues (384120081): 24.0
+- Mariana Alvares (191515747): 20.0
+- Leonor Gomes (462618220): 18.0
+- Leonor Almeida (621306114): 16.0
+- Joao Alvares (293325523): 15.0
+- Ana Moreira (777238847): 13.0
+- Tiago Braganca (012171883): 13.0
+- Diogo Alves (172340718): 10.0
+- Tiago Pereira (004800083): 10.0
+- Diogo Ferreira (553163948): 8.0
+- Maria Costa (274903509): 5.0
+- Catarina Mendes (303589879): 4.0
+- Carolina da Veiga (198349510): 3.0
+- Joao Pereira (581136859): 3.0
+- Rodrigo Pinto (795269255): 1.0
+Analise de Sistemas (2020/2) - Flavio Giraldeli
+- Beatriz de Caminha (902046408): 100.0
+- Maria Braga (171720143): 100.0
+- Carolina Coimbra (593620532): 98.0
+- Maria Sampaio (887829131): 93.0
+- Tiago Ribeiro (039726728): 90.0
+- Rodrigo Gomes (302444569): 86.0
+- Miguel Oliveira (246239127): 84.0
+- Catarina Costa (626223531): 79.0
+- Diogo Coimbra (239787316): 78.0
+- Maria Sampaio (549357279): 77.0
+- Rodrigo Mendes (116068059): 76.0
+- Diogo Almeida (221350702): 74.0
+- Catarina Lopes (540843048): 64.0
+- Afonso Jesus (825713640): 62.0
+- Tomas Braganca (273437074): 62.0
+- Joao Santos (800881547): 58.0
+- Santiago da Veiga (935956502): 57.0
+- Tiago Carvalho (498623631): 54.0
+- Francisco Ribeiro (891520559): 53.0
+- Madalena Albuquerque (902566004): 53.0
+- Miguel Ribeiro (697409410): 53.0
+- Matilde Braga (529695213): 48.0
+- Leonor de Caminha (068180940): 47.0
+- Tomas Mendes (782984993): 46.0
+- Madalena Ferreira (259897034): 44.0
+- Joao Teixeira (970685893): 40.0
+- Miguel Alves (388032573): 37.0
+- Leonor Almeida (851019004): 30.0
+- Madalena Gomes (409694140): 30.0
+- Catarina da Gama (116831853): 28.0
+- Tiago Lopes (775601858): 28.0
+- Tomas Guimaraes (642663544): 28.0
+- Maria Correia (339301449): 23.0
+- Santiago Costa (144835086): 21.0
+- Maria Fernandes (702978334): 20.0
+- Tiago Jesus (977101067): 20.0
+- Ana Sampaio (126939839): 15.0
+- Francisco Oliveira (514719734): 8.0
+- Madalena Guimaraes (090530547): 7.0
+- Tomas Martins (359386707): 5.0
+- Diogo Alves (172340718): 3.0
+- Afonso Alves (303978247): 2.0
+Analise de Sistemas (2020/2) - Flavio Lamas
+- Catarina Braga (899588408): 98.0
+- Diogo Ferreira (553163948): 94.0
+- Santiago Alves (946838511): 81.0
+- Joao Braga (689582073): 79.0
+- Miguel Carvalho (131905386): 79.0
+- Matilde Marques (791174232): 72.0
+- Miguel Goncalves (060564557): 69.0
+- Santiago Pinto (699581388): 69.0
+- Francisco Vaz (797089393): 68.0
+- Martim Sousa (680880650): 68.0
+- Matilde Correia (352030876): 68.0
+- Joao Carvalho (326730268): 63.0
+- Diogo Lopes (013367367): 60.0
+- Leonor de Caminha (068180940): 60.0
+- Leonor Almeida (851019004): 57.0
+- Tomas Jesus (950166721): 54.0
+- Matilde Teixeira (363199576): 51.0
+- Leonor Costa (064460750): 48.0
+- Madalena Guimaraes (090530547): 48.0
+- Ana Correia (118791168): 45.0
+- Tomas Mendes (782984993): 44.0
+- Carolina Coimbra (593620532): 37.0
+- Diogo Sampaio (061810291): 36.0
+- Catarina Guimaraes (900244652): 29.0
+- Diogo Ferreira (844935298): 28.0
+- Tomas Carvalho (018153724): 26.0
+- Francisca Carvalho (515253895): 25.0
+- Carolina Nunes (054997669): 21.0
+- Leonor Ribeiro (747407842): 21.0
+- Santiago Sampaio (065513852): 18.0
+- Tomas Castro (747565960): 15.0
+- Beatriz Oliveira (531424804): 11.0
+- Afonso Jesus (825713640): 6.0
+- Catarina Nunes (538231564): 5.0
+- Tiago Pereira (091994505): 5.0
+- Rodrigo Almeida (176543129): 2.0
+- Maria Oliveira (822268956): 0.0
+Analise de Sistemas (2020/2) - Hilario Seibel Jr
+- Tomas Braganca (273437074): 100.0
+- Afonso Alves (303978247): 96.0
+- Carolina Goncalves (883506127): 84.0
+- Miguel Vaz (458820915): 80.0
+- Mariana Silva (973370071): 75.0
+- Tiago da Gama (513782203): 70.0
+- Leonor da Gama (700501814): 64.0
+- Maria da Gama (697194694): 63.0
+- Joao Teixeira (970685893): 60.0
+- Maria Pereira (497393414): 57.0
+- Ana Braganca (416471104): 55.0
+- Madalena Silva (696962989): 54.0
+- Maria Alvares (782512866): 52.0
+- Tomas Guimaraes (938853250): 52.0
+- Leonor de Caminha (068180940): 51.0
+- Afonso Costa (989824431): 48.0
+- Catarina Teixeira (585513414): 46.0
+- Diogo Ferreira (553163948): 43.0
+- Carolina Oliveira (917867294): 41.0
+- Madalena Pinto (060746528): 28.0
+- Madalena Rodrigues (910428164): 28.0
+- Leonor da Gama (057898608): 22.0
+- Ana Sampaio (126939839): 20.0
+- Tomas Albuquerque (569715607): 18.0
+- Francisco Costa (082502460): 14.0
+- Tiago Braganca (217188235): 12.0
+- Rodrigo Almeida (176543129): 6.0
+- Tomas Martins (359386707): 3.0
+- Madalena de Caminha (923308211): 2.0
+- Miguel Fernandes (352636310): 2.0
+Programacao 1 (2020/2) - Flavio Giraldeli
+- Catarina Alvares (131448185): 99.0
+- Matilde Teixeira (396764345): 97.0
+- Maria Sousa (025847078): 96.0
+- Tomas Guimaraes (938853250): 92.0
+- Leonor Martins (371737922): 90.0
+- Afonso Costa (989824431): 88.0
+- Martim Correia (716980867): 88.0
+- Afonso Albuquerque (226675029): 84.0
+- Afonso Rodrigues (734213868): 79.0
+- Tiago Silva (940615869): 77.0
+- Francisco Vaz (797089393): 68.0
+- Leonor da Veiga (306622305): 68.0
+- Francisco Alves (486556831): 64.0
+- Santiago Alves (949710725): 64.0
+- Afonso Gomes (810525978): 52.0
+- Maria Alvares (782512866): 49.0
+- Ana da Gama (266322330): 43.0
+- Madalena Santos (690683643): 43.0
+- Miguel Fernandes (352636310): 38.0
+- Rodrigo Almeida (176543129): 36.0
+- Rodrigo Ribeiro (030196210): 36.0
+- Joao Pereira (581136859): 35.0
+- Madalena Albuquerque (902566004): 34.0
+- Catarina Goncalves (377955158): 33.0
+- Madalena Castro (727079795): 31.0
+- Diogo Moreira (532307684): 30.0
+- Martim Pinto (358326945): 25.0
+- Tiago Nunes (089297211): 25.0
+- Miguel Sampaio (353455765): 24.0
+- Catarina Nunes (538231564): 21.0
+- Santiago Martins (462906683): 14.0
+- Miguel de Caminha (530769173): 12.0
+- Madalena Correia (389036168): 10.0
+- Tiago Braganca (012171883): 8.0
+- Tomas Braga (286961474): 7.0
+- Diogo Alves (752830156): 6.0
+- Matilde Jesus (986525477): 6.0
+- Afonso Ribeiro (737784356): 3.0
+Programacao 1 (2020/2) - Wagner Kirmse
+- Rodrigo Pereira (435307267): 99.0
+- Francisca Ferreira (104504815): 97.0
+- Mariana da Gama (046675206): 91.0
+- Carolina da Veiga (198349510): 90.0
+- Joao Ferreira (085332496): 89.0
+- Ana de Caminha (356116587): 87.0
+- Tomas Jesus (950166721): 84.0
+- Matilde Nunes (398950539): 80.0
+- Miguel Oliveira (246239127): 78.0
+- Afonso Goncalves (489434921): 73.0
+- Leonor Gomes (480651669): 65.0
+- Afonso Carvalho (391862517): 64.0
+- Matilde Rodrigues (790649946): 64.0
+- Miguel de Caminha (530769173): 57.0
+- Tiago Braganca (217188235): 49.0
+- Mariana Coimbra (736033581): 44.0
+- Diogo Sampaio (061810291): 43.0
+- Ana Ferreira (209767451): 42.0
+- Tiago da Gama (513782203): 39.0
+- Francisca Gomes (451358888): 33.0
+- Beatriz Lopes (913616883): 30.0
+- Miguel Teixeira (544656439): 30.0
+- Madalena Moreira (622540809): 24.0
+- Carolina Pinto (365286356): 22.0
+- Francisco Vaz (999287998): 20.0
+- Ana Gomes (653548782): 16.0
+- Joao Martins (988115972): 16.0
+- Mariana Gomes (393801734): 15.0
+- Tiago Correia (901221524): 15.0
+- Rodrigo Pereira (925909986): 14.0
+- Rodrigo Marques (792138537): 12.0
+- Miguel Goncalves (170106153): 5.0
+Programacao 2 (2020/2) - Fabiano Ruy
+- Maria Fernandes (702978334): 99.0
+- Diogo Pinto (397399994): 97.0
+- Afonso Gomes (544253548): 85.0
+- Madalena Coimbra (408702098): 85.0
+- Tomas Guimaraes (945317327): 85.0
+- Mariana da Gama (105824812): 83.0
+- Rodrigo Pereira (435307267): 83.0
+- Matilde Teixeira (363199576): 82.0
+- Francisco Alves (486556831): 81.0
+- Martim Sousa (680880650): 80.0
+- Martim Marques (364668820): 76.0
+- Ana Nunes (864496835): 75.0
+- Madalena Teixeira (494936053): 66.0
+- Madalena Rodrigues (351174243): 65.0
+- Joao Sampaio (359509497): 58.0
+- Francisca Gomes (451358888): 48.0
+- Leonor Gomes (462618220): 42.0
+- Carolina Nunes (054997669): 41.0
+- Tomas Carvalho (018153724): 41.0
+- Joao da Gama (827381366): 39.0
+- Diogo Fernandes (603372211): 36.0
+- Santiago Marques (694587903): 34.0
+- Maria Sampaio (549357279): 32.0
+- Leonor Alvares (982482158): 31.0
+- Martim Mendes (984213672): 31.0
+- Ana Fernandes (947001543): 29.0
+- Santiago Albuquerque (116400484): 28.0
+- Madalena Albuquerque (902566004): 27.0
+- Tiago Ferreira (573391264): 27.0
+- Tiago Pereira (004800083): 27.0
+- Madalena Silva (696962989): 25.0
+- Francisca Ferreira (034834955): 21.0
+- Santiago Guimaraes (415101869): 18.0
+- Beatriz Braga (620685237): 15.0
+- Matilde Albuquerque (872100198): 15.0
+- Joao Vaz (298408702): 9.0
+- Ana Ferreira (209767451): 5.0
+- Beatriz Lopes (913616883): 4.0
+- Rodrigo Almeida (176543129): 1.0
+- Mariana Mendes (956336900): 0.0
+Programacao Orientada a Objetos (2020/2) - Wagner Kirmse
+- Afonso Pereira (488250265): 93.0
+- Afonso Marques (608527678): 89.0
+- Matilde Teixeira (363199576): 89.0
+- Joao Alvares (293325523): 87.0
+- Santiago Sampaio (199352170): 86.0
+- Madalena Rodrigues (384120081): 84.0
+- Madalena Jesus (657607081): 83.0
+- Beatriz Lopes (913616883): 82.0
+- Leonor Gomes (462618220): 77.0
+- Miguel Oliveira (246239127): 69.0
+- Matilde Pinto (603276954): 66.0
+- Santiago Fernandes (260637286): 53.0
+- Tiago Braganca (217188235): 47.0
+- Leonor Ferreira (856768804): 46.0
+- Francisco Oliveira (514719734): 44.0
+- Martim Vaz (622153747): 43.0
+- Carolina Pinto (365286356): 41.0
+- Tiago Nunes (089297211): 39.0
+- Joao Carvalho (326730268): 38.0
+- Diogo Santos (197536731): 36.0
+- Beatriz Oliveira (531424804): 34.0
+- Miguel Mendes (062073596): 29.0
+- Francisca Rodrigues (195788255): 27.0
+- Matilde Correia (352030876): 25.0
+- Madalena Santos (348763917): 21.0
+- Diogo Fernandes (603372211): 19.0
+- Joao Braganca (196502858): 15.0
+- Leonor Almeida (552742524): 10.0
+- Afonso Alves (303978247): 7.0
+- Maria Sousa (025847078): 3.0
+- Afonso Gomes (810525978): 2.0
+- Tomas Almeida (172908869): 2.0
+- Santiago da Gama (527211381): 0.0
+Sistemas Operacionais (2020/2) - Flavio Lamas
+- Rodrigo Marques (792138537): 98.0
+- Madalena Braganca (883271282): 97.0
+- Carolina Oliveira (917867294): 93.0
+- Maria da Gama (848588078): 93.0
+- Santiago Marques (789946032): 91.0
+- Carolina Braga (549789435): 88.0
+- Leonor Almeida (621306114): 77.0
+- Tiago Coimbra (847885784): 72.0
+- Joao Costa (435552386): 67.0
+- Mariana Costa (281858903): 62.0
+- Santiago Pereira (018667083): 61.0
+- Francisca Pereira (396487494): 60.0
+- Santiago Rodrigues (948120510): 60.0
+- Francisca Ferreira (034834955): 59.0
+- Joao Costa (183334133): 58.0
+- Madalena Lopes (045809495): 55.0
+- Mariana da Gama (046675206): 55.0
+- Mariana Mendes (956336900): 53.0
+- Leonor Silva (147629491): 49.0
+- Tiago Braganca (012171883): 47.0
+- Catarina Mendes (303589879): 46.0
+- Leonor Mendes (542381298): 41.0
+- Madalena Sampaio (957671240): 36.0
+- Francisca Gomes (451358888): 33.0
+- Leonor da Veiga (867182435): 33.0
+- Santiago Sampaio (065513852): 33.0
+- Francisca Pinto (129963786): 32.0
+- Francisco Oliveira (514719734): 31.0
+- Catarina Castro (777510306): 28.0
+- Martim Sousa (680880650): 26.0
+- Santiago Alves (946838511): 23.0
+- Rodrigo Ribeiro (030196210): 22.0
+- Mariana Alves (557012378): 16.0
+- Martim Braga (981371439): 15.0
+- Mariana Jesus (258023591): 11.0
+- Tomas da Veiga (667731544): 11.0
+- Francisco Vaz (999287998): 10.0
+- Madalena Jesus (341978044): 6.0
+- Santiago Alves (846798051): 5.0
+- Beatriz Goncalves (757190462): 4.0
+- Miguel Teixeira (198990320): 3.0
+- Maria Pereira (497393414): 2.0
+- Afonso Rodrigues (734213868): 0.0
+- Francisco Vaz (797089393): 0.0
+- Rodrigo Almeida (176543129): 0.0
+Sistemas Operacionais (2020/2) - Hilario Seibel Jr
+- Catarina Teixeira (933835396): 94.0
+- Francisco Albuquerque (436148770): 94.0
+- Rodrigo Albuquerque (354428032): 84.0
+- Carolina Lopes (963411284): 82.0
+- Joao Martins (988115972): 80.0
+- Carolina Nunes (054997669): 79.0
+- Tiago da Gama (513782203): 67.0
+- Carolina Oliveira (706341633): 58.0
+- Santiago da Veiga (935956502): 58.0
+- Beatriz de Caminha (902046408): 52.0
+- Catarina Teixeira (585513414): 46.0
+- Leonor Ferreira (856768804): 45.0
+- Diogo Moreira (532307684): 43.0
+- Madalena Albuquerque (902566004): 41.0
+- Santiago Alves (949710725): 41.0
+- Rodrigo Pereira (925909986): 38.0
+- Tomas Jesus (950166721): 37.0
+- Joao Sampaio (329144220): 31.0
+- Diogo Ferreira (844935298): 30.0
+- Afonso Gomes (545231898): 27.0
+- Carolina Oliveira (917867294): 26.0
+- Joao Costa (183334133): 25.0
+- Madalena Rodrigues (351174243): 23.0
+- Afonso Rodrigues (468003358): 20.0
+- Catarina Pinto (757287979): 14.0
+- Tomas Carvalho (018153724): 13.0
+- Martim Marques (364668820): 11.0
+- Catarina da Gama (806948418): 6.0
+- Catarina Lopes (540843048): 4.0
+- Tomas Guimaraes (642663544): 3.0
+- Tiago Sousa (279231752): 0.0
+Analise de Sistemas (2020/1) - Fabiano Ruy
+- Mariana Sampaio (868717473): 98.0
+- Leonor da Veiga (867182435): 95.0
+- Diogo Oliveira (612300898): 94.0
+- Diogo Moreira (532307684): 92.0
+- Leonor Costa (064460750): 87.0
+- Tiago Coimbra (847885784): 87.0
+- Tomas Guimaraes (938853250): 87.0
+- Francisca Gomes (451358888): 86.0
+- Tiago Ferreira (853136668): 85.0
+- Santiago Sampaio (199352170): 84.0
+- Joao Sampaio (359509497): 70.0
+- Santiago Guimaraes (415101869): 70.0
+- Diogo Pinto (397399994): 67.0
+- Madalena Ferreira (259897034): 66.0
+- Madalena Goncalves (917634298): 61.0
+- Catarina Lopes (540843048): 56.0
+- Diogo Almeida (707494766): 54.0
+- Leonor Almeida (851019004): 52.0
+- Maria Braga (171720143): 48.0
+- Matilde Pinto (603276954): 48.0
+- Santiago Oliveira (243948028): 48.0
+- Matilde Jesus (587280359): 45.0
+- Diogo Guimaraes (701956057): 42.0
+- Miguel Goncalves (060564557): 36.0
+- Francisco Teixeira (463476087): 31.0
+- Matilde Braga (529695213): 29.0
+- Tomas Castro (632182491): 28.0
+- Miguel Braganca (334151614): 27.0
+- Martim Rodrigues (085114196): 25.0
+- Tiago Costa (252089127): 24.0
+- Diogo Santos (197536731): 21.0
+- Tomas Lopes (881362977): 15.0
+- Diogo Alves (752830156): 14.0
+- Joao Santos (800881547): 8.0
+- Leonor Gomes (480651669): 4.0
+- Tomas Martins (359386707): 3.0
+Analise de Sistemas (2020/1) - Hilario Seibel Jr
+- Miguel Oliveira (246239127): 98.0
+- Afonso Costa (989824431): 97.0
+- Madalena Fernandes (045870310): 95.0
+- Mariana da Gama (080258128): 95.0
+- Diogo Guimaraes (701956057): 92.0
+- Leonor Mendes (542381298): 91.0
+- Maria Santos (124817411): 89.0
+- Rodrigo Albuquerque (354428032): 88.0
+- Rodrigo Gomes (302444569): 88.0
+- Maria Oliveira (113487030): 87.0
+- Joao Sampaio (440448034): 79.0
+- Miguel Carvalho (131905386): 73.0
+- Madalena Rodrigues (351174243): 70.0
+- Tiago da Gama (513782203): 69.0
+- Joao Carvalho (112249457): 67.0
+- Rodrigo Almeida (996094481): 65.0
+- Santiago Costa (144835086): 62.0
+- Tomas Marques (301605128): 60.0
+- Francisco Costa (959928348): 55.0
+- Francisca Moreira (610051865): 51.0
+- Ana Rodrigues (973828702): 50.0
+- Catarina Teixeira (585513414): 45.0
+- Madalena Silva (696962989): 42.0
+- Maria Oliveira (822268956): 41.0
+- Joao Teixeira (970685893): 37.0
+- Tomas Castro (632182491): 37.0
+- Francisco Teixeira (507749244): 36.0
+- Joao Vaz (298408702): 33.0
+- Santiago Alves (949710725): 33.0
+- Tiago Moreira (478944097): 31.0
+- Joao Santos (800881547): 24.0
+- Tomas Lopes (881362977): 17.0
+- Martim Rodrigues (085114196): 12.0
+- Carolina Oliveira (706341633): 6.0
+- Tomas Braga (286961474): 6.0
+- Carolina Ribeiro (755409544): 5.0
+- Catarina Alvares (131448185): 5.0
+Programacao 1 (2020/1) - Flavio Giraldeli
+- Leonor Mendes (147992706): 97.0
+- Leonor Martins (371737922): 96.0
+- Tiago Silva (940615869): 83.0
+- Santiago Alves (946838511): 80.0
+- Tiago Lopes (775601858): 77.0
+- Tomas Carvalho (018153724): 77.0
+- Beatriz Oliveira (531424804): 73.0
+- Tiago Albuquerque (614541590): 73.0
+- Matilde Ribeiro (415374570): 70.0
+- Carolina Goncalves (883506127): 69.0
+- Francisco Ribeiro (891520559): 66.0
+- Ana Nunes (864496835): 58.0
+- Mariana Costa (281858903): 57.0
+- Miguel Moreira (381752460): 57.0
+- Miguel Pereira (953246145): 57.0
+- Diogo Oliveira (612300898): 50.0
+- Joao Costa (435552386): 46.0
+- Leonor Costa (064460750): 46.0
+- Beatriz Rodrigues (133541543): 45.0
+- Miguel Castro (982590928): 44.0
+- Tomas Coimbra (831631423): 42.0
+- Leonor Almeida (851019004): 40.0
+- Beatriz Alvares (715763149): 38.0
+- Maria da Gama (848588078): 33.0
+- Madalena Coimbra (408702098): 31.0
+- Francisca Vaz (285458762): 29.0
+- Beatriz Teixeira (427135328): 26.0
+- Maria Nunes (024537986): 20.0
+- Tomas Nunes (591315372): 11.0
+- Tiago da Gama (513782203): 9.0
+- Miguel Sampaio (353455765): 8.0
+- Diogo Moreira (532307684): 7.0
+- Santiago Oliveira (571326305): 7.0
+- Santiago Pereira (018667083): 6.0
+- Mariana Silva (973370071): 4.0
+- Catarina Lopes (540843048): 0.0
+Programacao 1 (2020/1) - Flavio Lamas
+- Santiago da Gama (527211381): 100.0
+- Madalena Lopes (487928552): 91.0
+- Joao Martins (988115972): 88.0
+- Tiago Lopes (775601858): 78.0
+- Madalena Albuquerque (902566004): 74.0
+- Matilde Jesus (587280359): 72.0
+- Diogo Alves (172340718): 71.0
+- Madalena Pinto (060746528): 68.0
+- Joao Goncalves (264207392): 62.0
+- Diogo Martins (236887145): 57.0
+- Tiago Braganca (217188235): 55.0
+- Maria da Gama (359351317): 51.0
+- Rodrigo Lopes (177573818): 49.0
+- Leonor Pereira (173521609): 47.0
+- Maria Castro (561971227): 47.0
+- Francisca Moreira (119802925): 46.0
+- Matilde Teixeira (363199576): 44.0
+- Tomas Correia (165277423): 44.0
+- Matilde Albuquerque (872100198): 38.0
+- Martim Pinto (358326945): 35.0
+- Leonor Costa (064460750): 33.0
+- Tomas Fernandes (329179762): 33.0
+- Madalena Rodrigues (910428164): 23.0
+- Santiago Almeida (788555787): 19.0
+- Tiago Pereira (004800083): 19.0
+- Ana Braganca (416471104): 14.0
+- Carolina da Veiga (198349510): 13.0
+- Tomas Guimaraes (642663544): 9.0
+- Madalena Guimaraes (090530547): 7.0
+- Miguel Marques (271147403): 2.0
+- Catarina Alvares (131448185): 1.0
+- Tomas Almeida (172908869): 1.0
+Programacao 1 (2020/1) - Wagner Kirmse
+- Santiago Guimaraes (415101869): 100.0
+- Ana Rodrigues (973828702): 99.0
+- Joao Vaz (298408702): 99.0
+- Tomas Braganca (535356999): 96.0
+- Maria Costa (274903509): 93.0
+- Diogo Mendes (771219856): 91.0
+- Tiago Albuquerque (614541590): 91.0
+- Afonso Rodrigues (468003358): 87.0
+- Joao Sousa (261620722): 85.0
+- Madalena Pinto (060746528): 80.0
+- Afonso Ribeiro (737784356): 79.0
+- Madalena Jesus (657607081): 75.0
+- Carolina Goncalves (883506127): 71.0
+- Miguel Pereira (953246145): 67.0
+- Diogo Gomes (995886119): 66.0
+- Carolina Pinto (365286356): 64.0
+- Afonso Marques (608527678): 63.0
+- Leonor Almeida (621306114): 58.0
+- Carolina Alves (010376321): 57.0
+- Leonor da Veiga (306622305): 56.0
+- Rodrigo Albuquerque (354428032): 52.0
+- Carolina Ribeiro (755409544): 45.0
+- Maria Santos (124817411): 42.0
+- Mariana Alvares (960880549): 41.0
+- Maria Sampaio (887829131): 36.0
+- Beatriz de Caminha (902046408): 34.0
+- Tiago Pereira (277147753): 34.0
+- Tomas Castro (747565960): 33.0
+- Tiago Carvalho (093351102): 28.0
+- Diogo Pinto (397399994): 23.0
+- Mariana Pereira (661035286): 22.0
+- Francisco Albuquerque (436148770): 21.0
+- Matilde Jesus (587280359): 20.0
+- Catarina da Gama (806948418): 7.0
+- Mariana Nunes (938119714): 7.0
+- Ana Moreira (777238847): 3.0
+- Mariana Mendes (956336900): 2.0
+- Mariana Gomes (393801734): 0.0
+- Matilde Jesus (986525477): 0.0
+Programacao 2 (2020/1) - Fabiano Ruy
+- Afonso Alves (303978247): 99.0
+- Diogo Alves (752830156): 97.0
+- Mariana Braganca (597122612): 91.0
+- Tiago Carvalho (498623631): 91.0
+- Francisca Lopes (309051359): 90.0
+- Francisco Teixeira (507749244): 90.0
+- Francisca Carvalho (371979716): 83.0
+- Matilde Vaz (352151640): 81.0
+- Madalena Albuquerque (902566004): 78.0
+- Tiago Lopes (335674524): 78.0
+- Joao Alvares (293325523): 77.0
+- Carolina Ribeiro (755409544): 75.0
+- Leonor da Gama (700501814): 75.0
+- Joao Pereira (581136859): 74.0
+- Maria Sousa (590782080): 72.0
+- Rodrigo Costa (491749416): 72.0
+- Tiago Correia (901221524): 72.0
+- Miguel Marques (271147403): 71.0
+- Santiago Alves (846798051): 66.0
+- Maria Goncalves (944618816): 65.0
+- Joao Vaz (298408702): 62.0
+- Carolina Coimbra (593620532): 60.0
+- Martim Braga (981371439): 59.0
+- Catarina Guimaraes (900244652): 58.0
+- Tiago Nunes (959731181): 58.0
+- Leonor Gomes (462618220): 57.0
+- Rodrigo Mendes (116068059): 52.0
+- Beatriz Oliveira (531424804): 48.0
+- Madalena de Caminha (876187345): 48.0
+- Miguel Teixeira (544656439): 43.0
+- Joao Sampaio (329144220): 38.0
+- Maria da Gama (359351317): 37.0
+- Martim Vaz (622153747): 35.0
+- Tiago da Gama (513782203): 34.0
+- Catarina Santos (748837072): 29.0
+- Joao Nunes (381131199): 29.0
+- Madalena Gomes (409694140): 26.0
+- Francisco de Caminha (957263754): 24.0
+- Madalena Santos (348763917): 18.0
+- Tomas Coimbra (831631423): 18.0
+- Tomas Almeida (172908869): 14.0
+- Afonso Jesus (825713640): 13.0
+- Mariana Jesus (258023591): 12.0
+- Matilde Marques (791174232): 7.0
+- Tomas Guimaraes (945317327): 5.0
+Programacao 2 (2020/1) - Wagner Kirmse
+- Maria Oliveira (822268956): 99.0
+- Tomas Guimaraes (945317327): 99.0
+- Diogo Martins (236887145): 97.0
+- Rodrigo Lopes (637685765): 92.0
+- Tiago Costa (252089127): 91.0
+- Mariana Pereira (661035286): 86.0
+- Mariana Gomes (393801734): 85.0
+- Joao Vaz (298408702): 81.0
+- Matilde Albuquerque (872100198): 79.0
+- Francisco Albuquerque (436148770): 77.0
+- Martim Braga (981371439): 74.0
+- Tomas Jesus (852358320): 74.0
+- Tomas Nunes (591315372): 71.0
+- Carolina Oliveira (706341633): 67.0
+- Ana Ferreira (209767451): 65.0
+- Tomas Carvalho (750153282): 63.0
+- Leonor Braganca (169011818): 62.0
+- Ana da Gama (266322330): 61.0
+- Francisca Pinto (129963786): 60.0
+- Diogo Lopes (013367367): 58.0
+- Leonor da Veiga (306622305): 57.0
+- Leonor Costa (064460750): 56.0
+- Madalena Silva (696962989): 54.0
+- Afonso Costa (989824431): 53.0
+- Tiago Jesus (977101067): 48.0
+- Madalena Correia (389036168): 45.0
+- Catarina Sampaio (770600443): 44.0
+- Mariana Alves (557012378): 44.0
+- Madalena Santos (348763917): 38.0
+- Martim Correia (696396367): 38.0
+- Santiago da Veiga (935956502): 38.0
+- Miguel Castro (982590928): 35.0
+- Joao Gomes (997689265): 33.0
+- Diogo Mendes (771219856): 30.0
+- Miguel Teixeira (198990320): 30.0
+- Santiago Albuquerque (116400484): 30.0
+- Tomas Guimaraes (642663544): 30.0
+- Tomas Martins (359386707): 28.0
+- Tiago Lopes (335674524): 25.0
+- Ana Sampaio (126939839): 24.0
+- Francisca Ferreira (034834955): 23.0
+- Francisca Braganca (283195103): 22.0
+- Francisco Vaz (305206855): 22.0
+- Tomas Ferreira (022609876): 17.0
+- Madalena Gomes (409694140): 14.0
+- Mariana Sampaio (868717473): 11.0
+- Francisco Vaz (797089393): 2.0
+Programacao Orientada a Objetos (2020/1) - Flavio Lamas
+- Afonso Pereira (488250265): 100.0
+- Diogo Castro (133307600): 100.0
+- Leonor Sampaio (021951672): 99.0
+- Afonso Nunes (040918296): 96.0
+- Santiago Pereira (018667083): 95.0
+- Catarina Lopes (513013559): 92.0
+- Joao Sousa (261620722): 91.0
+- Leonor da Veiga (867182435): 91.0
+- Beatriz Braga (620685237): 89.0
+- Matilde Carvalho (072541011): 89.0
+- Francisca Braganca (293214892): 87.0
+- Madalena Coimbra (408702098): 82.0
+- Leonor Mendes (542381298): 79.0
+- Beatriz Oliveira (531424804): 76.0
+- Tiago Albuquerque (140607291): 69.0
+- Francisco Pereira (137135400): 65.0
+- Tiago Jesus (977101067): 64.0
+- Diogo Fernandes (603372211): 61.0
+- Diogo Ferreira (844935298): 61.0
+- Rodrigo Almeida (996094481): 61.0
+- Leonor Pereira (173521609): 57.0
+- Martim Vaz (622153747): 55.0
+- Madalena Santos (348763917): 54.0
+- Mariana da Gama (046675206): 54.0
+- Joao Sampaio (329144220): 49.0
+- Madalena Fernandes (045870310): 44.0
+- Mariana Gomes (393801734): 42.0
+- Diogo Alves (172340718): 38.0
+- Tiago Braganca (012171883): 36.0
+- Tiago Pereira (277147753): 36.0
+- Joao Braga (689582073): 34.0
+- Maria Sampaio (887829131): 34.0
+- Tiago Nunes (089297211): 32.0
+- Martim Alvares (173610029): 31.0
+- Rodrigo Ribeiro (030196210): 29.0
+- Francisco Lopes (410721443): 24.0
+- Francisca Vaz (714992066): 21.0
+- Martim Correia (696396367): 15.0
+- Joao Sampaio (440448034): 8.0
+- Tomas Braganca (535356999): 6.0
+- Tiago Costa (252089127): 0.0
+Sistemas Operacionais (2020/1) - Flavio Giraldeli
+- Afonso Albuquerque (226675029): 98.0
+- Carolina Mendes (518248909): 98.0
+- Tiago Carvalho (093351102): 94.0
+- Catarina Castro (777510306): 93.0
+- Rodrigo Gomes (302444569): 93.0
+- Leonor Mendes (147992706): 92.0
+- Francisco Costa (082502460): 91.0
+- Francisca Moreira (119802925): 87.0
+- Mariana Pereira (661035286): 81.0
+- Joao Costa (183334133): 79.0
+- Carolina Oliveira (917867294): 78.0
+- Tomas Carvalho (750153282): 78.0
+- Madalena Alves (524971179): 77.0
+- Diogo Alves (752830156): 73.0
+- Martim Sousa (680880650): 60.0
+- Leonor de Caminha (068180940): 57.0
+- Mariana Jesus (258023591): 55.0
+- Afonso Rodrigues (468003358): 53.0
+- Tomas Ferreira (022609876): 51.0
+- Joao Sampaio (440448034): 48.0
+- Rodrigo Albuquerque (354428032): 47.0
+- Catarina Mendes (303589879): 46.0
+- Maria Sampaio (549357279): 44.0
+- Carolina Pinto (365286356): 43.0
+- Joao Sampaio (329144220): 41.0
+- Martim Correia (716980867): 40.0
+- Afonso Rodrigues (734213868): 34.0
+- Santiago Pinto (699581388): 34.0
+- Madalena de Caminha (923308211): 31.0
+- Miguel Moreira (381752460): 30.0
+- Santiago Albuquerque (116400484): 30.0
+- Madalena Ferreira (295361445): 22.0
+- Martim Vaz (622153747): 22.0
+- Tomas Jesus (852358320): 19.0
+- Miguel Marques (271147403): 16.0
+- Madalena Pinto (060746528): 15.0
+- Ana Fernandes (947001543): 13.0
+- Tiago Albuquerque (614541590): 13.0
+- Francisco Pereira (137135400): 6.0
+- Martim Mendes (984213672): 4.0
+- Tiago Pereira (004800083): 1.0
+Sistemas Operacionais (2020/1) - Hilario Seibel Jr
+- Carolina Nunes (054997669): 100.0
+- Maria Santos (124817411): 100.0
+- Afonso Guimaraes (968488716): 97.0
+- Tomas Correia (165277423): 96.0
+- Joao Fernandes (458951729): 90.0
+- Miguel Moreira (381752460): 90.0
+- Santiago Albuquerque (116400484): 86.0
+- Carolina Coimbra (593620532): 83.0
+- Francisca Braganca (293214892): 82.0
+- Beatriz Lopes (913616883): 79.0
+- Tomas Jesus (852358320): 76.0
+- Tomas Teixeira (711098200): 74.0
+- Francisca Rodrigues (195788255): 67.0
+- Matilde Almeida (685194292): 64.0
+- Tomas Albuquerque (569715607): 61.0
+- Rodrigo Pereira (435307267): 57.0
+- Rodrigo Costa (491749416): 56.0
+- Tiago Silva (940615869): 54.0
+- Madalena de Caminha (923308211): 52.0
+- Tiago da Gama (454206923): 51.0
+- Mariana Coimbra (976557845): 43.0
+- Tiago Carvalho (093351102): 41.0
+- Tiago Ferreira (983507988): 37.0
+- Tiago Jesus (977101067): 36.0
+- Leonor Gomes (462618220): 33.0
+- Miguel Pereira (953246145): 25.0
+- Matilde Correia (352030876): 21.0
+- Tomas Jesus (950166721): 20.0
+- Tomas Braganca (273437074): 19.0
+- Santiago Sampaio (199352170): 13.0
